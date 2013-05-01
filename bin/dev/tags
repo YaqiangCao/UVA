@@ -1,0 +1,65 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BinaryTree	UVA112.java	/^	public void BinaryTree(){$/;"	m	class:BinaryTree
+BinaryTree	UVA112.java	/^class BinaryTree {$/;"	c
+Node	UVA112.java	/^		Node(int newData){$/;"	m	class:BinaryTree.Node
+Node	UVA112.java	/^	private static class Node{$/;"	c	class:BinaryTree
+Test	Test.java	/^public class Test {$/;"	c
+UVA11107	UVA11107.java	/^public class UVA11107 {$/;"	c
+UVA112	UVA112.java	/^public class UVA112 {$/;"	c
+UVA11512	UVA11512.java	/^public class UVA11512 {$/;"	c
+UVA123	UVA123.java	/^public class UVA123 {$/;"	c
+UVA195	UVA195.java	/^public class UVA195 {$/;"	c
+UVA294	UVA294.java	/^public class UVA294 {$/;"	c
+calHeight	uva11152.cpp	/^void calHeight(int *r, int *sa, int n){$/;"	f
+cmp	uva11152.cpp	/^int cmp(int *r, int a, int b, int l){$/;"	f
+data	UVA112.java	/^		int data;$/;"	f	class:BinaryTree.Node
+dev	Test.java	/^package dev;$/;"	p
+dev	UVA11107.java	/^package dev;$/;"	p
+dev	UVA112.java	/^package dev;$/;"	p
+dev	UVA11512.java	/^package dev;$/;"	p
+dev	UVA123.java	/^package dev;$/;"	p
+dev	UVA195.java	/^package dev;$/;"	p
+dev	UVA294.java	/^package dev;$/;"	p
+dev	package-info.java	/^package dev;/;"	p
+findKeywords	UVA123.java	/^	public static void findKeywords(){$/;"	m	class:UVA123
+findls	UVA11107.java	/^	private static void findls(ArrayList<String> lines, int n) {$/;"	m	class:UVA11107	file:
+getNext	UVA195.java	/^	public static ArrayList getNext(ArrayList<Integer> line){$/;"	m	class:UVA195
+hasPathSum	UVA112.java	/^	private boolean hasPathSum(Node node,int sum){$/;"	m	class:BinaryTree	file:
+hasPathSum	UVA112.java	/^	public boolean hasPathSum(int sum){$/;"	m	class:BinaryTree
+height	uva11152.cpp	/^int sa[maxn], rank[maxn], height[maxn];$/;"	v
+insert	UVA112.java	/^	private Node insert(Node node,int data){$/;"	m	class:BinaryTree	file:
+insert	UVA112.java	/^	public void insert(int data){$/;"	m	class:BinaryTree
+keyWords	UVA123.java	/^	static Hashtable keyWords=new Hashtable();$/;"	f	class:UVA123
+left	UVA112.java	/^		Node left;$/;"	f	class:BinaryTree.Node
+main	Test.java	/^	public static void main(String[] args) {$/;"	m	class:Test
+main	UVA11107.java	/^	public static void main(String[] args) {$/;"	m	class:UVA11107
+main	UVA112.java	/^	public static void main(String[] args) {$/;"	m	class:UVA112
+main	UVA11512.java	/^	public static void main(String[] args) {$/;"	m	class:UVA11512
+main	UVA123.java	/^	public static void main(String[] args) {$/;"	m	class:UVA123
+main	UVA195.java	/^	public static void main(String args[]) throws Exception{$/;"	m	class:UVA195
+main	UVA294.java	/^	public static void main(String[] args) {$/;"	m	class:UVA294
+main	uva11152.cpp	/^int main(){$/;"	f
+max	uva11152.cpp	/^int max(int a, int b){$/;"	f
+maxn	uva11152.cpp	4;"	d	file:
+primeCounts	UVA294.java	/^	public static int primeCounts(long n){$/;"	m	class:UVA294
+printTree	UVA112.java	/^	private void printTree(Node node){$/;"	m	class:BinaryTree	file:
+printTree	UVA112.java	/^	public void printTree(){$/;"	m	class:BinaryTree
+r	uva11152.cpp	/^int r[maxn];$/;"	v
+rank	uva11152.cpp	/^int sa[maxn], rank[maxn], height[maxn];$/;"	v
+readIn	UVA123.java	/^	public static void readIn(){$/;"	m	class:UVA123
+right	UVA112.java	/^		Node right;$/;"	f	class:BinaryTree.Node
+root	UVA112.java	/^	private Node root;$/;"	f	class:BinaryTree	file:
+sa	uva11152.cpp	/^int sa[maxn], rank[maxn], height[maxn];$/;"	v
+sortSuffix	uva11152.cpp	/^void sortSuffix(int *r,int *sa,int n,int m){$/;"	f
+str	uva11152.cpp	/^char str[1005];$/;"	v
+titles	UVA123.java	/^	static ArrayList titles=new ArrayList();$/;"	f	class:UVA123
+wa	uva11152.cpp	/^int wa[maxn], wb[maxn], wv[maxn], ws[maxn];$/;"	v
+wb	uva11152.cpp	/^int wa[maxn], wb[maxn], wv[maxn], ws[maxn];$/;"	v
+wordsIgnored	UVA123.java	/^	static ArrayList wordsIgnored=new ArrayList();$/;"	f	class:UVA123
+ws	uva11152.cpp	/^int wa[maxn], wb[maxn], wv[maxn], ws[maxn];$/;"	v
+wv	uva11152.cpp	/^int wa[maxn], wb[maxn], wv[maxn], ws[maxn];$/;"	v
