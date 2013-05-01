@@ -1,11 +1,11 @@
 /**
  * Project Name:UVA
- * File Name:UVA11107.java
+ * File Name:UVA11512.java
  * Package Name:dev
- * Created Date:2013-4-14下午7:59:40
- * Modified Date: 2013-4-14下午7:59:40
+ * Created Date:Apr 30, 20137:49:54 PM
+ * Modified Date: Apr 30, 20137:49:54 PM
  * Copyright (c) 2013, caoyaqiang0410@gmail.com All Rights Reserved.
- * 
+ * 主要参考资料:后缀数组——处理字符串的有力工具
  */
 package dev;
 
@@ -14,13 +14,6 @@ import java.util.Enumeration;
 import java.util.Hashtable;
 import java.util.Scanner;
 
-/**
- * ClassName:UVA11107 <br/>
- * date: 2013-4-14下午7:59:40 <br/>
- * @author CAO Yaqiang
- * @author caoyaqiang0410@gmail.com
- * @version 
- */
 public class UVA11107 {
 	public static void main(String[] args) {
 		Scanner cin=new Scanner(System.in);
